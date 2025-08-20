@@ -1,6 +1,7 @@
 ### Hi 
 
 **I am Manish.**
+I am currently working on implementing ML for syncronous motor control.
 
 ### ✍️ Languages
 
